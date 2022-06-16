@@ -1,0 +1,5 @@
+FName::ToString = "48 89 5C 24 ? 57 48 83 EC 30 83 79 04 00 48 8B DA 48 8B F9 75 4E E8 ? ? ? ? 4C 8B C8 8B 07 99 81 E2 ? ? ? ? 03 C2 44 8B C0"
+InitHost = "48 8B C4 48 81 EC ? ? ? ? 48 89 58 18 4C 8D 05 ? ? ? ?"
+WelcomePlayer = "48 8B C4 55 48 8D A8 ? ? ? ? 48 81 EC ? ? ? ? 48 89 58 18 48 8B 59 30"
+UWorld::NotifyControlMessage = "48 89 5C 24 ? 48 89 74 24 ? 48 89 7C 24 ? 48 89 4C 24 ? 55 41 54 41 55 41 56 41 57 48 8D AC 24 ? ? ? ? 48 81 EC ? ? ? ? 33 FF"
+AOnlineBeaconHost::NotifyControlMessage = "4C 8B DC 49 89 5B 18 49 89 73 20 49 89 4B 08"
